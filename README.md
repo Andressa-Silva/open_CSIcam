@@ -1,4 +1,5 @@
 # Open CSI-Camera
+With Ubuntu 20
 
 To compile:
 
@@ -10,3 +11,5 @@ To run:
 ```
 $ ./open_cam
 ```
+
+OpenCV needs to be compiled with CUDA
