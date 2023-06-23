@@ -1,4 +1,4 @@
-# Open CSI-Camera
+# Open CSI-Camera on Jetson
 With Ubuntu 20
 
 To compile:
